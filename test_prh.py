@@ -1,7 +1,7 @@
 import requests
 import datetime
 
-# Define the base URL for the API
+# Define the base URL for the PRH API
 base_url = "https://avoindata.prh.fi/"
 
 # Calculate the date range for the last month
@@ -13,21 +13,16 @@ start_date_str = start_date.isoformat()
 end_date_str = end_date.isoformat()
 
 # Define the endpoint for company contact information
-endpoint = f"bis/v1?totalResults=false&maxResults=1000&resultsFrom=0&registeredFrom={start_date_str}&registeredTo={end_date_str}"
-
-# Construct the full URL
-full_url = base_url + endpoint
-print(f"Requesting URL: {full_url}")
+# Adjust this endpoint based on the specific data you're fetching
+endpoint = f"tr/v1/publicnotices?totalResults=true&maxResults=1000&resultsFrom=0&noticeRegistrationFrom={start_date_str}&noticeRegistrationTo={end_date_str}"
 
 # Make the API request
-response = requests.get(full_url)
+response = requests.get(base_url + endpoint)
 
 # Check if the request was successful
 if response.status_code == 200:
-    companies = response.json().get('results', [])
-    for company in companies:
-        company_name = company.get('name')
-        company_email = company.get('email')
-        print(f"Company Name: {company_name}, Email: {company_email}")
+    data = response.json()
+    # Process the data as needed
+    print(data)  # This is just for demonstration, adjust it based on your needs
 else:
     print(f"Failed to retrieve data from the API. Status Code: {response.status_code}, Response: {response.text}")
