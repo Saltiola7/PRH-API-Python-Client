@@ -1,2 +1,3 @@
 # PRH-API-Python-Client
-This repository contain forks of existing python PRH client codebases into one repository for further development of PRH API solutions using Python.
+This repository contains submodules of existing external repos for python PRH clients for further development of PRH API solutions using Python.
+
