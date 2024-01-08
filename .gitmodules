@@ -1,0 +1,15 @@
+[submodule "external_repos/PRH-API"]
+	path = external_repos/PRH-API
+	url = https://github.com/tall-tree-line/PRH-API
+[submodule "external_repos/PrhScraper"]
+	path = external_repos/PrhScraper
+	url = https://github.com/ptsonev/PrhScraper
+[submodule "external_repos/finnish_business_portal"]
+	path = external_repos/finnish_business_portal
+	url = https://github.com/Miksus/finnish_business_portal
+[submodule "external_repos/Koronan-aiheuttamat-konkurssit"]
+	path = external_repos/Koronan-aiheuttamat-konkurssit
+	url = https://github.com/Geoc0der/Koronan-aiheuttamat-konkurssit
+[submodule "external_repos/python-api-call-AvoinData"]
+	path = external_repos/python-api-call-AvoinData
+	url = https://github.com/Vexild/python-api-call-AvoinData
