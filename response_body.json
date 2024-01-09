@@ -1,0 +1,340 @@
+{
+    "type": "fi.prh.opendata.bis",
+    "version": "1",
+    "totalResults": -1,
+    "resultsFrom": 0,
+    "previousResultsUri": null,
+    "nextResultsUri": null,
+    "exceptionNoticeUri": null,
+    "results": [
+      {
+        "businessId": "3368707-2",
+        "name": "Scaling Nature Oy",
+        "registrationDate": "2023-05-31",
+        "companyForm": "OY",
+        "detailsUri": null,
+        "liquidations": [],
+        "names": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "Scaling Nature Oy",
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "source": 1
+          }
+        ],
+        "auxiliaryNames": [],
+        "addresses": [
+          {
+            "careOf": null,
+            "street": "Autiontie 75",
+            "postCode": "41870",
+            "type": 2,
+            "version": 1,
+            "city": "PUTKILAHTI",
+            "country": null,
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          }
+        ],
+        "companyForms": [
+          {
+            "version": 1,
+            "name": "Limited company",
+            "type": null,
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "language": "EN",
+            "source": 1
+          },
+          {
+            "version": 1,
+            "name": "Osakeyhtiö",
+            "type": "OY",
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "language": "FI",
+            "source": 1
+          },
+          {
+            "version": 1,
+            "name": "Aktiebolag",
+            "type": "AB",
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "language": "SE",
+            "source": 1
+          }
+        ],
+        "businessLines": [
+          {
+            "order": 0,
+            "version": 1,
+            "code": "70220",
+            "name": "Business and other management consultancy activities",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "EN",
+            "source": 2
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "code": "70220",
+            "name": "Muu liikkeenjohdon konsultointi",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "FI",
+            "source": 2
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "code": "70220",
+            "name": "Konsultverksamhet avseende företags organisation",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "SE",
+            "source": 2
+          }
+        ],
+        "languages": [
+          {
+            "version": 1,
+            "name": "Finnish",
+            "registrationDate": "2023-06-14",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "name": "Suomi",
+            "registrationDate": "2023-06-14",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "name": "Finska",
+            "registrationDate": "2023-06-14",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          }
+        ],
+        "registedOffices": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "JYVÄSKYLÄ",
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "JYVÄSKYLÄ",
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "JYVÄSKYLÄ",
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          }
+        ],
+        "contactDetails": [
+          {
+            "version": 1,
+            "value": "0407479512",
+            "type": "Puhelin",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "value": "0407479512",
+            "type": "Telefon",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "value": "0407479512",
+            "type": "Telephone",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "value": "tommisaltiola.com",
+            "type": "Kotisivun www-osoite",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "value": "tommisaltiola.com",
+            "type": "www-adress",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          },
+          {
+            "version": 1,
+            "value": "tommisaltiola.com",
+            "type": "Website address",
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          }
+        ],
+        "registeredEntries": [
+          {
+            "authority": 1,
+            "register": 4,
+            "status": 1,
+            "registrationDate": "2023-06-14",
+            "endDate": null,
+            "statusDate": "2023-11-07",
+            "language": "FI",
+            "description": "Rekisterissä"
+          },
+          {
+            "authority": 1,
+            "register": 4,
+            "status": 1,
+            "registrationDate": "2023-06-14",
+            "endDate": null,
+            "statusDate": "2023-11-07",
+            "language": "SE",
+            "description": "Registrerad"
+          },
+          {
+            "authority": 1,
+            "register": 4,
+            "status": 1,
+            "registrationDate": "2023-06-14",
+            "endDate": null,
+            "statusDate": "2023-11-07",
+            "language": "EN",
+            "description": "Registered"
+          },
+          {
+            "authority": 1,
+            "register": 6,
+            "status": 1,
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "statusDate": "2023-06-20",
+            "language": "FI",
+            "description": "Liiketoiminnasta arvonlisäverovelvollinen"
+          },
+          {
+            "authority": 1,
+            "register": 6,
+            "status": 1,
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "statusDate": "2023-06-20",
+            "language": "SE",
+            "description": "Momsskyldig för rörelseverksamhet"
+          },
+          {
+            "authority": 1,
+            "register": 6,
+            "status": 1,
+            "registrationDate": "2023-05-31",
+            "endDate": null,
+            "statusDate": "2023-06-20",
+            "language": "EN",
+            "description": "VAT-liable for business activity"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 1,
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "statusDate": "2023-06-13",
+            "language": "FI",
+            "description": "Rekisterissä"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 1,
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "statusDate": "2023-06-13",
+            "language": "SE",
+            "description": "Registrerad"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 1,
+            "registrationDate": "2023-06-13",
+            "endDate": null,
+            "statusDate": "2023-06-13",
+            "language": "EN",
+            "description": "Registered"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2023-05-31",
+            "endDate": "2023-06-12",
+            "statusDate": "2023-05-31",
+            "language": "FI",
+            "description": "Rekisteröimätön"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2023-05-31",
+            "endDate": "2023-06-12",
+            "statusDate": "2023-05-31",
+            "language": "SE",
+            "description": "Oregistrerad"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2023-05-31",
+            "endDate": "2023-06-12",
+            "statusDate": "2023-05-31",
+            "language": "EN",
+            "description": "Unregistered"
+          }
+        ],
+        "businessIdChanges": []
+      }
+    ]
+  }

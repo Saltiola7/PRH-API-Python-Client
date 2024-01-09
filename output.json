@@ -1,0 +1,432 @@
+[
+  {
+    "type": "fi.prh.opendata.bis",
+    "version": "1",
+    "totalResults": -1,
+    "resultsFrom": 0,
+    "previousResultsUri": null,
+    "nextResultsUri": null,
+    "exceptionNoticeUri": null,
+    "results": [
+      {
+        "businessId": "3417175-6",
+        "name": "Tammerco Oy",
+        "registrationDate": "2024-01-08",
+        "companyForm": "OY",
+        "detailsUri": null,
+        "liquidations": [],
+        "names": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "Tammerco Oy",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "source": 3
+          }
+        ],
+        "auxiliaryNames": [],
+        "addresses": [
+          {
+            "careOf": null,
+            "street": "Kotipellontie 24",
+            "postCode": "33470",
+            "type": 2,
+            "version": 1,
+            "city": "YLÖJÄRVI",
+            "country": null,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          }
+        ],
+        "companyForms": [
+          {
+            "version": 1,
+            "name": "Limited company",
+            "type": null,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "EN",
+            "source": 3
+          },
+          {
+            "version": 1,
+            "name": "Osakeyhtiö",
+            "type": "OY",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "FI",
+            "source": 3
+          },
+          {
+            "version": 1,
+            "name": "Aktiebolag",
+            "type": "AB",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "SE",
+            "source": 3
+          }
+        ],
+        "businessLines": [],
+        "languages": [],
+        "registedOffices": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "YLÖJÄRVI",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "YLÖJÄRVI",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "YLÖJÄRVI",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          }
+        ],
+        "contactDetails": [],
+        "registeredEntries": [
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "statusDate": "2024-01-08",
+            "language": "FI",
+            "description": "Rekisteröimätön"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "statusDate": "2024-01-08",
+            "language": "SE",
+            "description": "Oregistrerad"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "statusDate": "2024-01-08",
+            "language": "EN",
+            "description": "Unregistered"
+          }
+        ],
+        "businessIdChanges": []
+      }
+    ]
+  },
+  {
+    "type": "fi.prh.opendata.bis",
+    "version": "1",
+    "totalResults": -1,
+    "resultsFrom": 0,
+    "previousResultsUri": null,
+    "nextResultsUri": null,
+    "exceptionNoticeUri": null,
+    "results": [
+      {
+        "businessId": "3417182-8",
+        "name": "ChronoLuxe Oy",
+        "registrationDate": "2024-01-08",
+        "companyForm": "OY",
+        "detailsUri": null,
+        "liquidations": [],
+        "names": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "ChronoLuxe Oy",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "source": 3
+          }
+        ],
+        "auxiliaryNames": [],
+        "addresses": [
+          {
+            "careOf": null,
+            "street": "Hyljetie 3 A 22",
+            "postCode": "02260",
+            "type": 2,
+            "version": 1,
+            "city": "ESPOO",
+            "country": null,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          }
+        ],
+        "companyForms": [
+          {
+            "version": 1,
+            "name": "Limited company",
+            "type": null,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "EN",
+            "source": 3
+          },
+          {
+            "version": 1,
+            "name": "Osakeyhtiö",
+            "type": "OY",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "FI",
+            "source": 3
+          },
+          {
+            "version": 1,
+            "name": "Aktiebolag",
+            "type": "AB",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "SE",
+            "source": 3
+          }
+        ],
+        "businessLines": [],
+        "languages": [],
+        "registedOffices": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "ESPOO",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "ESPOO",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "ESBO",
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          }
+        ],
+        "contactDetails": [],
+        "registeredEntries": [
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "statusDate": "2024-01-08",
+            "language": "FI",
+            "description": "Rekisteröimätön"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "statusDate": "2024-01-08",
+            "language": "SE",
+            "description": "Oregistrerad"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-08",
+            "endDate": null,
+            "statusDate": "2024-01-08",
+            "language": "EN",
+            "description": "Unregistered"
+          }
+        ],
+        "businessIdChanges": []
+      }
+    ]
+  },
+  {
+    "type": "fi.prh.opendata.bis",
+    "version": "1",
+    "totalResults": -1,
+    "resultsFrom": 0,
+    "previousResultsUri": null,
+    "nextResultsUri": null,
+    "exceptionNoticeUri": null,
+    "results": [
+      {
+        "businessId": "3417124-6",
+        "name": "Kiinteistö Oy Haapaniementie",
+        "registrationDate": "2024-01-07",
+        "companyForm": "OY",
+        "detailsUri": null,
+        "liquidations": [],
+        "names": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "Kiinteistö Oy Haapaniementie",
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "source": 3
+          }
+        ],
+        "auxiliaryNames": [],
+        "addresses": [
+          {
+            "careOf": null,
+            "street": "Haapaniementie 70",
+            "postCode": "23500",
+            "type": 1,
+            "version": 1,
+            "city": "UUSIKAUPUNKI",
+            "country": null,
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "careOf": null,
+            "street": "Haapaniementie 70",
+            "postCode": "23500",
+            "type": 2,
+            "version": 1,
+            "city": "UUSIKAUPUNKI",
+            "country": null,
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          }
+        ],
+        "companyForms": [
+          {
+            "version": 1,
+            "name": "Limited company",
+            "type": null,
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "EN",
+            "source": 3
+          },
+          {
+            "version": 1,
+            "name": "Osakeyhtiö",
+            "type": "OY",
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "FI",
+            "source": 3
+          },
+          {
+            "version": 1,
+            "name": "Aktiebolag",
+            "type": "AB",
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "SE",
+            "source": 3
+          }
+        ],
+        "businessLines": [],
+        "languages": [],
+        "registedOffices": [
+          {
+            "order": 0,
+            "version": 1,
+            "name": "UUSIKAUPUNKI",
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "EN",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "UUSIKAUPUNKI",
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "FI",
+            "source": 0
+          },
+          {
+            "order": 0,
+            "version": 1,
+            "name": "NYSTAD",
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "language": "SE",
+            "source": 0
+          }
+        ],
+        "contactDetails": [],
+        "registeredEntries": [
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "statusDate": "2024-01-07",
+            "language": "FI",
+            "description": "Rekisteröimätön"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "statusDate": "2024-01-07",
+            "language": "SE",
+            "description": "Oregistrerad"
+          },
+          {
+            "authority": 2,
+            "register": 1,
+            "status": 2,
+            "registrationDate": "2024-01-07",
+            "endDate": null,
+            "statusDate": "2024-01-07",
+            "language": "EN",
+            "description": "Unregistered"
+          }
+        ],
+        "businessIdChanges": []
+      }
+    ]
+  }
+]
